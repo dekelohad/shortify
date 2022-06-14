@@ -1,0 +1,12 @@
+.not__found__container {
+    max-width: 550px;
+    margin: 5em auto;
+    text-align: center;
+
+}
+
+.container__button {
+    margin-top: 3em;
+    width: 80%;
+    padding: 1em;
+}

@@ -1,0 +1,31 @@
+.admin__container {
+    max-width: 1200px;
+    padding: 2em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container__title {
+    font-size: 2rem;
+    color: gold;
+}
+
+.container__content {
+    margin-top: 5em;
+}
+
+.container__sub__title {
+    text-align: left;
+    font-size: 1.8rem;
+}
+
+.content__item {
+    margin-top: 1.5em;
+    display: flex;
+}
+
+.content__item__icon {
+    color: blue;
+    font-size: 1.3em;
+    margin-right: 0.5em;
+}

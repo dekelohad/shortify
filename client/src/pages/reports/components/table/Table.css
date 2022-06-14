@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 90%;
+    max-width: 1000px;
+    margin: 1.5em auto;
+}
+
+td,
+th {
+    border: 1px solid var(--clr-black);
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: var(--clr-light-gray);
+}
+
+td:first-child+td {
+    text-align: left;
+    padding: 2px;
+}
+
+
+
+ 

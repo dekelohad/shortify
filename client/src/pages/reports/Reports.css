@@ -1,0 +1,16 @@
+.reports {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.container__text {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 950px) {
+    .reports {
+        width: 100%;
+        margin: 0;
+    }
+}
